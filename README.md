@@ -1,4 +1,4 @@
-# Time Series Distances
+# Time Series Distances ([dtaidistance](https://github.com/wannesm/dtaidistance))
 
 Library for time series distances (e.g. Dynamic Time Warping) used in the
 [DTAI Research Group](https://dtai.cs.kuleuven.be). The library offers a pure
